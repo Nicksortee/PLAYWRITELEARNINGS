@@ -1,0 +1,27 @@
+{
+  "name": "playwritelearnings",
+  "version": "1.0.0",
+  "description": "Repository for Playwright and JavaScript learning exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicksortee/PLAYWRITELEARNINGS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nicksortee/PLAYWRITELEARNINGS/issues"
+  },
+  "homepage": "https://github.com/Nicksortee/PLAYWRITELEARNINGS#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
