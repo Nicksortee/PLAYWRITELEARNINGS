@@ -4,14 +4,15 @@
   "description": "Repository for Playwright and JavaScript learning exercises.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "ts-node Typescript/TASK1.ts"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nicksortee/PLAYWRITELEARNINGS.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["playwright", "javascript", "testing"],
+  "author": "Nidhee Sortee",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
@@ -20,9 +21,5 @@
   "homepage": "https://github.com/Nicksortee/PLAYWRITELEARNINGS#readme",
   "dependencies": {
     "playwright": "^1.58.2"
-  },
-  "devDependencies": {
-    "@playwright/test": "^1.58.2",
-    "typescript": "^6.0.2"
   }
 }

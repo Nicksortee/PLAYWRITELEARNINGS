@@ -9,7 +9,7 @@ null == undefined   // true
 
 null == 0 // false
 null == "" //false
-null == false //fasle
+null == false //false
 undefined == 0 //false
 undefined == "" //false
 undefined == false //false
